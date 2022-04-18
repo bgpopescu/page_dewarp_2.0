@@ -5,3 +5,5 @@ This project focuses on page dewarping and getting a page from a book that you s
 The code below is updated to 2022 from Matt Zucker's code from 2016: https://github.com/mzucker/page_dewarp
 
 I first explain the steps in the program and then I go to the code in PART 2.
+
+If you cannot see the jupyter notebook here on GitHub, copy the url of the notebook and paste it in https://nbviewer.org
